@@ -7,7 +7,7 @@ MDP: https://lucid.app/lucidchart/invitations/accept/3c7068ea-871d-4bdb-a6b9-0ee
 
 Installation pour visualiser le projet:
 
-Installer notre base de donnée grâce à blog.sql
+Installer notre base de donnée grâce à BlogTest.sql
 
 Implémenter vos identifiant de BDD dans le fichier DbClass.inc.php qui ce trouve à la racine du dossier.
 
